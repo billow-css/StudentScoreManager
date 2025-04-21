@@ -101,5 +101,5 @@
 
 ## V0.0.2 Alpha 
 开发人员：hwl，cjy（测试）
-- *math_calculate函数组开始编写*加入了GPA计算函数，并通过了快速测试；
+- **math_calculate函数组开始编写**加入了GPA计算函数，并通过了快速测试；
 - 进行了交接。
